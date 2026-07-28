@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
+    "build": "next build",
+    "start": "next start",
     "preview": "vite preview",
     "test": "jest",
     "test:watch": "jest --watch"
