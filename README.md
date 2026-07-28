@@ -5,7 +5,7 @@ A Next.js application configured with Jest and React Testing Library (RTL) for a
 ## Important Links
 
 - **Live Repository:** https://github.com/Sarvesh-88/Sprint-11
-- **Demo Video:** [Add your Google Drive/Loom link here](#)
+- **Demo Video:** https://drive.google.com/file/d/1Z2B2rr0fFh1-EfcxBY5hYtNzbfAx-5G1/view?usp=drivesdk
 
 ## Screenshot
 
