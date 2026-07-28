@@ -9,7 +9,7 @@ A Next.js application configured with Jest and React Testing Library (RTL) for a
 
 ## Screenshot
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Project Screenshot](https://github.com/Sarvesh-88/Sprint-11/blob/main/one.png)
 
 ## Project Overview
 
