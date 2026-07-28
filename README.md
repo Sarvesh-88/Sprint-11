@@ -1,16 +1,27 @@
-# React + Vite
+# Track A: Frontend Specialists - Phase 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Next.js application configured with Jest and React Testing Library (RTL) for automated unit and component testing, fulfilling the Phase 1 Base Architecture (P0 - Mandatory) engineering requirements.
 
-Currently, two official plugins are available:
+## Important Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Live Repository:** [Add your GitHub/GitLab link here](#)
+- **Demo Video:** [Add your Google Drive/Loom link here](#)
 
-## React Compiler
+## Screenshot
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Project Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
 
-## Expanding the ESLint configuration
+## Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Tech Stack
+
+- Next.js (React)
+- Jest (Test Runner)
+- React Testing Library (RTL)
+
+### Features Completed
+
+- **Environment Setup:** Successfully installed and configured Jest and React Testing Library (RTL) within the Next.js application environment.
+- **Isolated Unit Tests:** Architected and implemented isolated tests for 3 core UI components (`Button`, `Card`, and `Input`).
+- **Mount Verification:** Tests successfully execute and verify that all targeted components mount without crashing.
+- **Prop Rendering Validation:** Tests accurately assert and validate that dynamic text payloads passed via props are correctly rendered within the UI.
